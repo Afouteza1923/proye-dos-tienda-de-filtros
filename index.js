@@ -231,7 +231,7 @@ const headerElement = document.querySelector ('header');
 
 //! Creamos el elemento video y le añadimos una clase y los elementos de control
 const video = document.createElement ('video');
-video.src = 'assets/Untitled_design.mp4';
+video.src = 'assets/Video_portada_proyecto2.mov';
 video.className = 'video-banner';
 video.controls = true;
 video.autoplay = true;
